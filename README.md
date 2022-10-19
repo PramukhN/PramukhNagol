@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Computer Science MS student at GWU,USA
 
-- 🌱 I’m currently learning *JSS
+- 🌱 I’m currently learning *JSS*, 
 
 - 📫 How to reach me **nagolpramukh@gmail.com**
 
